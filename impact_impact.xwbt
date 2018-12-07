@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\mips_mini\impact.xsl
+OUTFILE=D:\mips_mini\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=D:\mips_mini
+LICENSE=iMPACT
+USER_INFO=iMPACT

@@ -1,0 +1,17 @@
+
+NET "clk" LOC = V10;
+
+
+
+NET "reset" LOC = T10;
+
+# PlanAhead Generated physical constraints 
+
+NET "r[0]" LOC = U16;
+NET "r[1]" LOC = V16;
+NET "r[2]" LOC = U15;
+NET "r[3]" LOC = V15;
+NET "r[4]" LOC = M11;
+NET "r[5]" LOC = N11;
+NET "r[6]" LOC = R11;
+NET "r[7]" LOC = T11;
